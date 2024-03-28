@@ -1,2 +1,2 @@
 # UsefulPythonUtils
-Useful utils for Python programming!
+Useful utils for Python!
